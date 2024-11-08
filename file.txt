@@ -2,3 +2,6 @@ Welcome to the project.
 
 ===
 Feature A code written by user1
+
+===
+Feature B code written by user2
